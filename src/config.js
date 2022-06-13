@@ -1,26 +1,26 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'lpapiernik24@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/Luispapiernik',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/luispapiernik/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/LPapiernik',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/luispapiernik',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Hackerrank',
+      url: 'https://www.hackerrank.com/Luispapiernik',
     },
   ],
 
@@ -40,6 +40,10 @@ module.exports = {
     {
       name: 'Contact',
       url: '/#contact',
+    },
+    {
+      name: 'Pensieve',
+      url: '/pensieve',
     },
   ],
 
