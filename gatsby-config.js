@@ -5,7 +5,7 @@ module.exports = {
     title: 'Luis Papiernik',
     description:
       'Luis Papiernik is a physicist who specializes in solving problems with tech tools..',
-    siteUrl: 'https://luispapiernik.dev', // No trailing slash allowed!
+    siteUrl: 'https://google.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@LPapiernik',
   },
