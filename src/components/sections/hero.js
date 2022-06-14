@@ -67,7 +67,7 @@ const Hero = () => {
         I am a physicist passionate about technology, with more than three years of experience as a
         software developer and a solid formal background in math, physics, and programming. I'm
         passionate about what I do so I'm constantly improving my knowledge, and I consider myself
-        very curious that is why I'm always learning new things.
+        very curious, that is why I'm always learning new things.
       </p>
     </>
   );
