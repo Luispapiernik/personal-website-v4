@@ -4,7 +4,7 @@ title: 'Backend developer'
 company: 'Guane Enterprises'
 location: 'Medellin, CA'
 range: 'February 2021 - March 2022'
-url: 'https://www.apple.com/music/'
+url: 'https://guane.com.co/'
 ---
 
 - Microservices creation with FastAPI, Celery, Redis, RabbitMQ and PostgreSQL

@@ -148,18 +148,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Luis Papiernik, and I enjoy to solve problems using tech tools. My
-              interest in software development started when I was a physics student and realice that
+              Hello! My name is Luis Papiernik, and I enjoy solving problems using tech tools. My
+              interest in software development started when I, as a physics student, realized that
               the academic does not train us to make maintenable and scalable code, so I began to
               study in order to gain habilities in those fields.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the opportunity to work with the right people,
-              which has allowed me to solve a wide range of problems, problems related to: process
-              automation, data science, signals processing, backend, cellular automatas, games
-              development, among others. My main focus will always be to solve problems using the
-              scientific method and the available tech tools.
+              which has allowed me to solve a wide range of problems related to process automation,
+              data science, signals processing, backend, cellular automatas, games development,
+              among others. My main focus will always be to solve problems using the scientific
+              method and available development techs.
             </p>
 
             <p>Here are a few technologies I’ve been working with:</p>
