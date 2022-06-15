@@ -41,10 +41,10 @@ module.exports = {
       name: 'Contact',
       url: '/#contact',
     },
-    {
-      name: 'Pensieve',
-      url: '/pensieve',
-    },
+    // {
+    //   name: 'Pensieve',
+    //   url: '/pensieve',
+    // },
   ],
 
   colors: {
