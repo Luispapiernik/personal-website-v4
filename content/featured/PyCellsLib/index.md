@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'PyCellsLib'
-cover: './demo.png'
+cover: './fractales.jpg'
 github: 'https://github.com/Luispapiernik/PyCellsLib'
 external: 'https://github.com/Luispapiernik/Cellular-automatons'
 cta: ''

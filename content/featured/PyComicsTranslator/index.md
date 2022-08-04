@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'PyComicsTranslator'
-cover: './course-card.png'
+cover: './berserk.jpg'
 github: 'hhttps://github.com/Luispapiernik/Py-Comics-Translator'
 external: ''
 cta: ''

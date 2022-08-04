@@ -9,7 +9,7 @@ tech:
   - Python
   - Pydantic
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 This is a translator from a given language to Lolspeak language.
