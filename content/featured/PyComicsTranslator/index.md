@@ -2,7 +2,7 @@
 date: '2'
 title: 'PyComicsTranslator'
 cover: './berserk.jpg'
-github: 'hhttps://github.com/Luispapiernik/Py-Comics-Translator'
+github: 'https://github.com/Luispapiernik/Py-Comics-Translator'
 external: ''
 cta: ''
 tech:
